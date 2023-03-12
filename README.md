@@ -1,6 +1,6 @@
 # Golang_KafkaExample
 
-docker-compose para levantar servidor docker
+docker-compose para levantar servidor kafka en docker
 
 ```
 version: '2'
